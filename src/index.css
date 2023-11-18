@@ -1,0 +1,27 @@
+:root {
+  --app-fonts: "Oxygen", "Montserrat", sans-serif;
+  --bg-950: #0c0a09;
+  --bg-900: #1c1917;
+  --bg-800: #292524;
+  --bg-700: #44403c;
+  --bg-600: #57534e;
+  --bg-500: #78716c;
+  --bg-400: #a8a29e;
+  --bg-300: #d6d3d1;
+  --bg-200: #e7e5e4;
+  --bg-100: #f5f5f4;
+  --bg-50: #fafaf9;
+  
+
+}
+
+* {
+  font-family: var(--app-fonts);
+}
+
+
+
+@font-face {
+  font-family: 'Oxygen';
+  src: url("assets/fonts/Oxygen.ttf");
+}
